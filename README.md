@@ -10,7 +10,7 @@ See the *examples/* directory for
 To run Python examples, first install `matplotlib` and `numpy` by runnning:
 
 ```bash
-pip install -r requirements.txt
+pip install -r examples/python/requirements.txt
 ```
 
 To run, just call:
