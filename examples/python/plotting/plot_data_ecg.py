@@ -11,7 +11,7 @@ t = np.subtract(data['t'],start_ts_ms)
 fig = plt.figure()
 
 ax1 = fig.add_subplot(111) # Format figure
-ax1.set_title('Rotation vs Time')    
+ax1.set_title('ECG Potential vs Time')    
 ax1.set_xlabel('Time since Recording Start (ms)')
 ax1.set_ylabel('ECG Potential (Volts)')
 
